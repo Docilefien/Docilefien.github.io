@@ -1,0 +1,37 @@
+body{
+    background-color: deepskyblue;
+
+
+}
+h1{text-align: center;
+    color:whitesmoke;
+    font-size:xx-large;
+}
+h2{
+    color: blue;
+}
+img{height: 500px;
+    width: 300px;
+}
+.s2{
+    display: flex;
+    display: inline;
+    list-style-type: none;
+}
+ ul  li {
+     display: inline;
+        text-decoration:none;
+        font-size: large;
+        padding: 30px;
+    
+}
+.ff{
+    padding-right: 200px;
+    
+
+}
+.g2{background-color:whitesmoke; 
+}
+mark{
+    background-color:orange;
+}

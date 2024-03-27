@@ -1,0 +1,51 @@
+#contact{
+    padding: 20px;
+}
+ul li {
+    display: inline;
+       text-decoration:none;
+       font-size: large;
+       padding: 30px;
+    }
+#contact h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.con details{
+    font-size: 18px;}
+    .con details p{
+        margin-bottom: 5px;
+    }
+    .con details strong{
+        font-weight: bold;
+        font-size: 24px;
+    }
+    body{
+      
+        text-align: center;
+        background-color:rgba(0, 174, 255, 0.432);
+    }
+    h1{
+        font-size: 50px;
+        color: blue;
+        font-style: italic;
+
+    }
+    h2{
+        font-size: 26px;
+        color: purple;
+    }
+    img{
+        height: 400px;
+        width: 300px;
+        padding: 20px;
+    }
+    footer{
+        clear: both;
+    }
+    mark{
+        background-color: white;
+    }
+    u{line-height: 20px;
+        color: blue;
+    }

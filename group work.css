@@ -1,0 +1,115 @@
+body{
+    text-align: center;
+}
+ul li{
+
+    display: inline-flex;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+
+}
+.s1{
+    text-align: center;
+    background-image: url(careful.jpg);
+    height: 450px;
+color: white;
+}
+.s2{
+    text-align: center;
+    background-color: aqua;
+    line-height: 40px;
+
+}
+
+.s3{
+    text-align: center
+    }
+    img{
+        margin-right: 20px;
+        background-image: none;
+        list-style-image: initial;
+    padding: 30px;
+    width: 500px;
+    height: 700px;
+    image-resolution: 100%;
+    
+    }
+
+}
+h2{
+    text-align: center; line-height: 5px;
+}
+button{background-color: red;
+    height:50px;
+    widows: 150px;
+color: white;
+border: none;
+border-radius: 30px;
+}
+.s6{padding-right: 700px;
+    text-align: center;
+}
+.s7{margin-bottom: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.s4{background-image: url(first.png);
+    height: 500px;
+}
+.s5{
+    text-align: left;
+   
+
+}
+.s8{
+    text-align:center;
+    width: 4cm;
+    height: 3cm;
+}
+h6{
+    background-color: black;
+    color: yellow;
+    height: 40px;
+}
+.dd{
+    height: 300px;
+    width: 500px;
+}
+.c2 img{
+    height: 300px;
+    width: 500px;
+
+}
+.r3{
+    display: flex;
+
+}
+.r321 img{
+    width: 500px;
+    height: 300px;
+
+}
+.r322 img{
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+}
+ .r331 img{ 
+    width: 500px;
+    height: 600px;
+
+}
+ .r332 img{ 
+    width: 500px;
+    height: 300px;
+    padding: 0px;
+}
+.r32{
+    text-align: center;
+    padding: 20px;
+}
+.r33{text-align: center;
+    padding: 20px;
+
+}

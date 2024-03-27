@@ -1,0 +1,29 @@
+img{
+    height:600px;
+    width: 500px;
+text-align: center;
+}
+.b1{
+    padding-right: 400px;
+    padding: 20px;
+    text-align: center;
+}
+.s1{
+    margin-right: 400px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+}
+body{
+    background-color:pink;
+}
+.d1{
+    padding-right: 20px;
+text-align: center;
+}
+ul li {
+    display: inline;
+       text-decoration:none;
+       font-size: large;
+       padding: 30px;
+    }

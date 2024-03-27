@@ -1,0 +1,32 @@
+header{
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    background-color: deeppink;
+
+
+}
+ul li {
+    display: inline;
+       text-decoration:none;
+       font-size: large;
+       padding: 30px;
+    }
+img{
+    height: 400px;
+    width: 350px;
+    background-color: blueviolet;
+}
+h2{
+    color:darkblue;
+    font-size:large;
+}
+footer{
+    background-color:skyblue;
+}
+marquee{
+    background-color:skyblue;
+}
+h1{
+    color: blue;
+}
